@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>আমার ব্যবসা</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>আমার ব্যবসা</h1>
+    <nav>
+      <ul>
+        <li><a href="#home">হোম</a></li>
+        <li><a href="#about">আমাদের সম্পর্কে</a></li>
+        <li><a href="#services">সেবা</a></li>
+        <li><a href="#payment">পেমেন্ট</a></li>
+        <li><a href="#contact">যোগাযোগ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>স্বাগতম!</h2>
+    <p>আমাদের ব্যবসায় আপনাকে স্বাগতম। আমরা আপনাকে দিচ্ছি সেরা সেবা।</p>
+  </section>
+
+  <section id="about">
+    <h2>আমাদের সম্পর্কে</h2>
+    <p>আমরা পেশাদার টিম নিয়ে কাজ করি এবং সবসময় গুণগত সেবা প্রদান করি।</p>
+  </section>
+
+  <section id="services">
+    <h2>আমাদের সেবা</h2>
+    <ul>
+      <li>সেবা ১</li>
+      <li>সেবা ২</li>
+      <li>সেবা ৩</li>
+    </ul>
+  </section>
+
+  <section id="payment">
+    <h2>পেমেন্ট অপশন</h2>
+    <p>বিকাশ, নগদ, রকেট এবং ব্যাংক ট্রান্সফার এর মাধ্যমে পেমেন্ট করতে পারবেন।</p>
+  </section>
+
+  <section id="contact">
+    <h2>যোগাযোগ করুন</h2>
+    <p>ফোন: ০১২৩৪৫৬৭৮৯০</p>
+    <p>ইমেইল: jahirulalamsakib@gmail.com</p>
+  </section>
+
+  <footer>
+    <p>&copy; ২০২৫ আমার ব্যবসা. সর্বস্বত্ব সংরক্ষিত।</p>
+  </footer>
+</body>
+</html>
